@@ -40,10 +40,17 @@ Artigo científico aceito (Qualis B2) sobre estratégias pedagógicas para o ens
 
 ---
 
+---
+
 ## 📫 Como me encontrar
 
-- [🔗 LinkedIn](https://www.linkedin.com/in/glaucio-jferreirarosa)
+- 💼 [LinkedIn: Glaucio Jorge Ferreira Rosa](https://www.linkedin.com/in/glaucio-rosa)
 - 📧 Email: glauciojorge@uol.com.br
+
+---
+
+> *“A estatística não diz o que pensar, mas ensina como pensar com dados.”*
+
 
 ---
 
