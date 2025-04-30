@@ -49,10 +49,9 @@ Artigo científico aceito (Qualis B2) sobre estratégias pedagógicas para o ens
 
 ---
 
-> *“A estatística não diz o que pensar, mas ensina como pensar com dados.”*
+> “Sem dados, você é apenas mais uma pessoa com uma opinião.”
+— W. Edwards Deming
 
 
 ---
-
-🔍 *“A estatística não diz o que pensar, mas ensina como pensar com dados.”*
 
