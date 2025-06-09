@@ -8,6 +8,14 @@
 🔍 Apaixonado por análise, modelagem preditiva e visualização de dados  
 📍 Brasil | 📈 Transformando dados em decisões
 
+
+<p align="left">
+  <img src="https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PowerBI-F2C811?style=flat&logo=powerbi&logoColor=black"/>
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white"/>
+</p>
+
 ---
 
 ## 🧠 Habilidades Técnicas
@@ -21,30 +29,31 @@
 
 ## 📂 Projetos em Destaque
 
-### 🔹 [🤖 Predição de Baixo Peso ao Nascer](https://github.com/GJFR71/Pred_Baixo_Peso_Bebe)
+###  🤖 [Predição de Baixo Peso ao Nascer](https://github.com/GJFR71/Pred_Baixo_Peso_Bebe)
 Análise preditiva em saúde pública com foco em risco gestacional.  
 **Técnicas:** KPIs de risco, modelagem com Elastic Net, XGBoost, ROC otimizado, Lift, storytelling aplicado à saúde.  
 📈 *Destaque: recall otimizado em 70,8%, com impacto prático para políticas públicas.*
 
-### 🔹 [📈 Previsão de Adesão a Campanhas Bancárias](https://github.com/GJFR71/Reg_Log_Campanha_Bankc)
+###  📈 [Previsão de Adesão a Campanhas Bancárias](https://github.com/GJFR71/Reg_Log_Campanha_Bankc)
+
 Modelagem com regressão logística para prever conversão em campanhas bancárias.  
 **Técnicas:** EDA, categorização, stepwise, ROC, Lift, ajuste de ponto de corte via KS.
 
-### 🔹 [🔧 Previsão de Manutenção – Motores e Bombas](https://github.com/GJFR71/Previsao_manutencao_motores)
+###  🔧 [Previsão de Manutenção – Motores e Bombas](https://github.com/GJFR71/Previsao_manutencao_motores)
 Projeção de demanda de manutenção com séries temporais (ETS).  
 **Comparativo com Média Móvel, avaliação com MAE, RMSE e MAPE.**
 
-### 🔹 [📚 Artigo Publicado – Ensino de Estatística na EJA](https://github.com/GJFR71/Ensino_Estatistica_EJA)
+###  📚 [Artigo Publicado – Ensino de Estatística na EJA](https://github.com/GJFR71/Ensino_Estatistica_EJA)
 Artigo científico aceito (Qualis B2) sobre estratégias pedagógicas para o ensino de Estatística.  
 **Temas:** etnomatemática, metodologias ativas e letramento estatístico como ferramenta cidadã.
 
----
 
 ---
 
 ## 📫 Como me encontrar
 
-- 💼 [LinkedIn: Glaucio Jorge Ferreira Rosa](https://www.linkedin.com/in/glaucio-rosa)
+- 💼 [LinkedIn](https://www.linkedin.com/in/glaucio-rosa)
+
 - 📧 Email: glauciojorge@uol.com.br
 
 ---
@@ -54,4 +63,5 @@ Artigo científico aceito (Qualis B2) sobre estratégias pedagógicas para o ens
 
 
 ---
+
 
