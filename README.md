@@ -29,7 +29,8 @@
 
 ## 📂 Projetos em Destaque
 
-###  🤖 [Predição de Baixo Peso ao Nascer](https://github.com/GJFR71/Pred_Baixo_Peso_Bebe)
+###  🤖 [Predição de Baixo Peso ao Nascer](https://github.com/GJFR71/predicao-baixo-peso-ao-nascer)
+
 Análise preditiva em saúde pública com foco em risco gestacional.  
 **Técnicas:** KPIs de risco, modelagem com Elastic Net, XGBoost, ROC otimizado, Lift, storytelling aplicado à saúde.  
 📈 *Destaque: recall otimizado em 70,8%, com impacto prático para políticas públicas.*
