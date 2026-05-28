@@ -29,6 +29,16 @@
 
 ## 📂 Projetos em Destaque
 
+### 🚚 **[FrotaIA — Classificação Inteligente de Conservação de Frota](https://github.com/GJFR71/frotaia-classificacao-frota)**
+
+MVP com Machine Learning, regras de negócio e IA Generativa local para apoiar a gestão da manutenção de frota.
+
+**Técnicas:** Random Forest, regras de negócio, análise de erros operacionais, importância de variáveis, IA Generativa local e storytelling analítico.
+
+📌 *Destaque: transforma inspeções simples de componentes em informação gerencial para apoiar decisões de manutenção, aquisição de peças e restrição de uso.*
+
+---
+
 ###  🤖 [Predição de Baixo Peso ao Nascer](https://github.com/GJFR71/predicao-baixo-peso-ao-nascer)
 
 Análise preditiva em saúde pública com foco em risco gestacional.  
