@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./Capa_Portfolio_Pessoal_Atualizada.png" width="900" alt="Portfólio - Estatística, Data Science e Business Intelligence"/>
+  <img src="./Capa_Portfolio_Pessoal.png" width="900" alt="Portfólio - Estatística, Data Science e Business Intelligence"/>
 </p>
 
 # 👋 Olá! Eu sou Glaucio Jorge Ferreira Rosa
