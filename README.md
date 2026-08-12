@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="Capa_Portfolio_Pessoal.png" width="800" alt="Capa do portfólio de Glaucio Jorge Ferreira Rosa"/>
+  <img src="Capa_Portfolio_Pessoal_Atualizada.png" width="800" alt="Capa do portfólio de Glaucio Jorge Ferreira Rosa"/>
 </p>
 
 # 👋 Olá! Eu sou Glaucio Jorge Ferreira Rosa
