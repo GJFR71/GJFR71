@@ -5,7 +5,9 @@
 # 👋 Olá! Eu sou Glaucio Jorge Ferreira Rosa
 
 🎓 **Estatístico | Ciência de Dados | Business Intelligence**
+
 📊 Estatística Aplicada, Machine Learning, modelagem preditiva e análise de dados
+
 🎯 Desenvolvimento de soluções analíticas para apoiar decisões e resolver problemas reais
 
 Atuo na transformação de dados em informações úteis para **análise, planejamento e tomada de decisão**, combinando fundamentos estatísticos, Ciência de Dados e ferramentas de Business Intelligence.
